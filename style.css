@@ -1,0 +1,35 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow: royalblue;
+  border-color: slateblue;
+  border-width: 30px;
+  border-style: ridge;
+}
+.note
+{
+  font-size: 20px;
+}
+body
+{
+  background-size: cover;	
+}
+#song_name
+{
+    width: 200px;
+    height: 45px; 
+    text-align: center;
+    font-size: 20px;
+    color: turquoise;
+    
+}
+canvas
+{
+   border: 10px solid goldenrod;
+   border-radius: 20px;
+   box-shadow: tomato;
+   margin-top:200px ;
+   border-style:dashed;
+}
